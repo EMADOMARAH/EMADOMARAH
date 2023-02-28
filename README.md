@@ -2,10 +2,10 @@
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/mahmoud-elebiary/" target="_blank" rel="noopener noreferrer">MahmoudElebiary</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/emad-omarah-57125314b/" target="_blank" rel="noopener noreferrer">Emad Omarah</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
 <h3 align="center">
-  A passionate Android developer from Egypt
+  A passionate Mobile developer from Egypt
 
 </h3>
 
@@ -15,36 +15,33 @@
 
 
 <br/> 
-I'm a mobile application developer, excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects and products. I'm specializing in the development of Android applications and work on many applications, from simple single-screen applications to large applications. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, MVP , and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
+A mobile app developer is able to create software for phones and tablets, and is familiar with the newest technologies in the mobile world. Mobile development requires staying in the mobile head space, meaning that it's even more important than with other hardware contexts to optimize performance, battery, network, and memory management. A developer must be also aware of how to deal with device fragmentation,often working closely with a designer to achieve the best user experience (UX) results.
 
 <br/><br/>
  
   
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{abora97}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{EMADOMARAH}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
 
  
  <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-elebiary/">
+  <a href="https://www.linkedin.com/in/emad-omarah-57125314b/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-    <a href="https://www.hackerrank.com/mahmoud_elebiary?hr_r=1">
-   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg" width="3.5%"/>
-    </a><span>&nbsp;</span>
-   <a href="https://www.facebook.com/MahmoudElebiary97">
+   <a href="https://www.facebook.com/profile.php?id=100006371019347">
    <img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-  <a href="https://twitter.com/Mahmod_Elebiary">
+  <a href="https://twitter.com/EmadOmarah">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/mahmoud_elebiary/?hl=en">
+  <a href="https://www.instagram.com/emad_omarah/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:mahmod.elebiary@gmail.com">
+  <a href="emadomarah2020@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/abora97">
+  <a href="https://github.com/EMADOMARAH">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
@@ -74,7 +71,9 @@ I'm a mobile application developer, excellent analytical and design capabilities
 - RxJava/Coroutines
 - GoogleMap
 - Retrofit/Volley
-- Sockets 
+- Flutter
+- Bloc
+- Fragments 
  
 
   <br/>
@@ -84,17 +83,17 @@ I'm a mobile application developer, excellent analytical and design capabilities
  
   <br>
   
-| [![Abora's github stats](https://github-readme-stats.vercel.app/api?username=abora97&show_icons=true&theme=tokyonight)](https://github.com/abora97?tab=repositories) | [![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abora97&theme=tokyonight)](https://github.com/abora97?tab=repositories) |
+| [![Emad's github stats](https://github-readme-stats.vercel.app/api?username=EMADOMARAH&show_icons=true&theme=tokyonight)](https://www.linkedin.com/in/emad-omarah-57125314b/?tab=repositories) | [![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EMADOMARAH&theme=tokyonight)](https://www.linkedin.com/in/emad-omarah-57125314b/?tab=repositories) |
 | --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abora97&theme=tokyonight)](https://github.com/abora97?tab=repositories) | [![Github Stars](https://github-readme-stats.vercel.app/api?username=abora97&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)](https://github.com/abora97?tab=repositories) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMADOMARAH&theme=tokyonight)](https://www.linkedin.com/in/emad-omarah-57125314b/?tab=repositories) | [![Github Stars](https://github-readme-stats.vercel.app/api?username=EMADOMARAH&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)](https://www.linkedin.com/in/emad-omarah-57125314b/?tab=repositories) |
 
-[![Abora's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abora97&theme=react-dark&bg_color=000&hide_border=true)](https://github.com/abora97?tab=repositories)
+[![Emad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EMADOMARAH&theme=react-dark&bg_color=000&hide_border=true)](https://www.linkedin.com/in/emad-omarah-57125314b/?tab=repositories)
 
 
 <br>
 
  
  <h4 align="center">
-  <a href="https://github.com/abora97?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://www.linkedin.com/in/emad-omarah-57125314b/?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
  
